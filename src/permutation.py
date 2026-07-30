@@ -7,7 +7,7 @@ from sklearn.model_selection import GroupKFold
 from .causal_models import make_model
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-CACHE_ROOT = PROJECT_ROOT / ".cache"
+CACHE_ROOT = PROJECT_ROOT / "cache"
 
 
 def load_or_build_permutation_null(

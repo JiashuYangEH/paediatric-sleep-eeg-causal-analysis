@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-CACHE_ROOT = PROJECT_ROOT / ".cache"
+CACHE_ROOT = PROJECT_ROOT / "cache"
 
 BURST_MERGE_SECONDS = 0.025
 MIN_PROPAGATION_LAG = 0.025
