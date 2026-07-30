@@ -1,4 +1,3 @@
-```markdown
 # Paediatric Sleep EEG Causal Analysis
 
 Exploratory causal analysis of paediatric sleep EEG and high-frequency
